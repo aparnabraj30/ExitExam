@@ -41,7 +41,7 @@ const inputStyle = {
 };
 
 const buttonStyle = {
-  backgroundColor: '#4CAF50',
+  backgroundColor: '#605399',
   color: 'white',
   padding: '10px 15px',
   border: 'none',
